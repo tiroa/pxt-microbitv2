@@ -33,6 +33,15 @@ change which makes the actual _bit rate_ faster than the baud rate.
 >* `57600` baud
 >* `115200` baud
 
+### ~reminder
+
+#### Logging serial data
+
+In order for the serial console log to record your serial data, the baud rate MUST remain
+at `115200` (the default).
+
+### ~
+
 ## Example
 
 Set the baud rate to `9600` and send a message over USB serial to a computer.
