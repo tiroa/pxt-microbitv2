@@ -27,6 +27,10 @@ change which makes the actual _bit rate_ faster than the baud rate.
 >* `9600` baud
 >* `14400` baud
 >* `19200` baud
+>* `28800` baud
+>* `31250` baud
+>* `38400` baud
+>* `57600` baud
 >* `115200` baud
 
 ## Example
