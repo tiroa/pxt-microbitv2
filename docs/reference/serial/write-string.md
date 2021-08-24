@@ -17,10 +17,10 @@ This program writes the word `JUMBO` to the serial port repeatedly,
 without any new lines.
 
 ```blocks
-basic.forever(funciton() {
+basic.forever(function() {
     serial.writeString("JUMBO")
     basic.pause(1000)
-});
+})
 ```
 
 ## See also
