@@ -16,7 +16,7 @@ The default connection for the serial port is over a USB cable. You can have the
 
 ### ~hint
 
-## Baud rate
+#### Baud rate
 
 Serial communication transmits data by sending one bit of a [digital number](/types/buffer/number-format) (usually a byte sized number), at a time. So, the data bytes are sent as a series of their bits. Serial communication uses just one wire to send these bits so only one bit can travel across the wire at a time.
 
