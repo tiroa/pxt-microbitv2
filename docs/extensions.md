@@ -461,6 +461,10 @@ Check out [the accessories pages on microbit.org](https://microbit.org/buy/acces
 
 ```codecard
 [{
+  "name": "Kitronik :CREATE Simple Servo Control Board",
+  "url":"/pkg/KitronikLtd/pxt-kitronik-simple-servo",
+  "cardType": "package"
+}, {
   "name": "Cytron ZOOM:BIT",
   "url":"/pkg/CytronTechnologies/pxt-zoombit",
   "cardType": "package"
