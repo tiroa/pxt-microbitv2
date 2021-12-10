@@ -68,7 +68,8 @@
         "soundexpressions.ts",
         "soundexpressions.cpp",
         "parts/speaker.svg",
-        "parts/headphone.svg"
+        "parts/headphone.svg",
+        "fibo.cpp"
     ],
     "testFiles": [],
     "public": true,
