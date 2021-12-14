@@ -5,7 +5,7 @@
 */
 //% color=#1E90FF weight=116 icon="\uf00a"
 //% groups="['Fibonacci','Servo','LEDs','LDR','others']"
-namespace fibo {
+namespace Prueba {
     /**
     * Calcula Fibonacci del número dado
     */
