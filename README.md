@@ -29,7 +29,7 @@ The local server lets you to run the editor and serve the documentation from you
 1. Install [Node.js](https://nodejs.org/) 8.9.4 or higher.
 2. Clone this repository.
 ```
-git clone https://github.com/microsoft/pxt-microbit
+git clone https://github.com/tiroa/pxt-microbitv2
 cd pxt-microbit
 ```
 3. Install the PXT command line (add `sudo` for Mac/Linux shells).
@@ -69,7 +69,7 @@ cd ..
 ```
 6. Clone this repository.
 ```
-git clone https://github.com/microsoft/pxt-microbit
+git clone https://github.com/tiroa/pxt-microbitv2
 cd pxt-microbit
 ```
 7. Install the PXT command line (add `sudo` for Mac/Linux shells).
