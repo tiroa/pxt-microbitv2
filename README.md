@@ -30,7 +30,7 @@ The local server lets you to run the editor and serve the documentation from you
 2. Clone this repository.
 ```
 git clone https://github.com/tiroa/pxt-microbitv2
-cd pxt-microbit
+cd pxt-microbitv2
 ```
 3. Install the PXT command line (add `sudo` for Mac/Linux shells).
 ```
@@ -70,7 +70,7 @@ cd ..
 6. Clone this repository.
 ```
 git clone https://github.com/tiroa/pxt-microbitv2
-cd pxt-microbit
+cd pxt-microbitv2
 ```
 7. Install the PXT command line (add `sudo` for Mac/Linux shells).
 ```
